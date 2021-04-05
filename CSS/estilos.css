@@ -3,5 +3,7 @@
 
 body{
 	background-color:#00C;
-	color:#FFF;
+	color:#F00;
+	font-weight:bold;
+	text-align:center;
 }
